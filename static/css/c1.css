@@ -1,0 +1,13 @@
+h1
+{
+    color:black;
+    background-color:lightseagreen;
+    inline-size: 260px;
+}
+
+h3
+{
+    color:greenyellow;
+    background-color:red;
+    inline-size: 260px;
+}
